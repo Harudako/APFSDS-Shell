@@ -3,7 +3,7 @@
 <p align="center"><h1>Showcase</h1></p>
 
 ___
-<p align="center"><img src="showcase\APFDS Shell.gif"></p>
+<p align="center"><img src="showcase\APFSDS Shell.gif"></p>
 
 ___
 <p align="center"><img src="showcase\shell.jpg"></p>
