@@ -1,6 +1,6 @@
-# APFSDS Shell
+<p align="center"><h1>APFSDS Shell</h1></p>
 
-<p align="center"><h1>Showcase</h1></p>
+<p align="center"><h3>Showcase</h3></p>
 
 ___
 <p align="center"><img src="showcase\APFSDS Shell.gif"></p>
