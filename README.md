@@ -15,7 +15,7 @@ ___
 
 <h1>Note</h1>
 
-> Please read the ff:
+> Please read the following guides:
 
 • Please install the "Configurable Explosives Mod" in your PPG mod folder".
 
