@@ -21,10 +21,8 @@ ___
 
 • Don't unfreeze the shell base because it might cause some bugs since this contraption isn't perfectly built yet.
 
-• You can also try out the "Cannon Test" Contraption but you may encounter some bugs in it.
-
 • You can mess around with it and distribute it to other people ;).
 
 ___
 
-<h1 align="center">Thanks for installing :)</h1>
+<h1 align="center">Thank you for installing the contraption, enjoy! :)</h1>
